@@ -37,7 +37,7 @@
 # 5. Версии проекта
 V1.0 - Релизная версия
 
-///////////////////////////////////////////////////////////////////////////////
+-------------------------------------------------------------------------------
 
 # Content
 1. The purpose of the project
@@ -67,12 +67,12 @@ To start the game you need a file main.py. to start, the terminal must be opened
 in the directory with this file.
 
 For systems based on the Linux kernel:
-``sh
-$ python3 main.py
+```sh
+ $ python3 main.py
 ```
 For Windows family systems (via PowerShell):
-``sh
-$ python main.py
-``
+```sh
+ $ python main.py
+```
 # 5. Version of the project
 V1.0-Release version
